@@ -54,7 +54,7 @@ Todas as cores estão centralizadas em variáveis CSS no topo do `<style>`:
 
 ## link do projeto
 
-http://127.0.0.1:5500/index.html#contact
+https://pedrolucas-bit.github.io/Portf-lio/
 
 
 MIT — sinta-se livre para usar, adaptar e distribuir.
