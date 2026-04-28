@@ -57,6 +57,4 @@ Todas as cores estão centralizadas em variáveis CSS no topo do `<style>`:
 http://127.0.0.1:5500/index.html#contact
 
 
-## Licença
-
 MIT — sinta-se livre para usar, adaptar e distribuir.
