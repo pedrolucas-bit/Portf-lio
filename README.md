@@ -52,14 +52,10 @@ Todas as cores estão centralizadas em variáveis CSS no topo do `<style>`:
 }
 
 
-## Estrutura do projeto
+## link do projeto
 
-```
-portfolio/
-└── index.html   # tudo em um único arquivo
-```
+http://127.0.0.1:5500/index.html#contact
 
----
 
 ## Licença
 
