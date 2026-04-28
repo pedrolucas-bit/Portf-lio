@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Portifólio pessoal desenvolvido com HTML e CSS puro — sem frameworks, sem dependências. Design dark minimalista com tipografia serifada, cursor customizado e animações baseadas em scroll.
 
